@@ -63,22 +63,22 @@ Through this project, I learned and practiced:
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](images/home.png)
+![Home Page](home.png)
 
 ### 📖 About Section
-![About Section](images/about.png)
+![About Section](about.png)
 
 ### 📊 Statistics Section
-![Stats Section](images/stats.png)
+![Stats Section](stats.png)
 
 ### 💬 Testimonials Section
-![Testimonials](images/testimonials.png)
+![Testimonials](testimonials.png)
 
 ### 🌟 Vision Section
-![Vision Section](images/vision.png)
+![Vision Section](vision.png)
 
 ### 🤝 Join Us Section
-![Join Section](images/join.png)
+![Join Section](join.png)
 
 ---
 ## 💡 Future Improvements
